@@ -17,9 +17,9 @@ https://github.com/Yoncing99/Exercise-6/blob/master/TestStudent.java
 In the following page, you are given TWO (2) incomplete classes :
  i) MaxcomApp – the class representing the program. 
 ```
-
+https://github.com/Yoncing99/Exercise-6/blob/master/MaxcomApp.java
 ```bash
 ii) CallChargeCalculator – the class definition for CallChargeCalculator object to be used in MaxcomApp.
 ```
-
+https://github.com/Yoncing99/Exercise-6/blob/master/CallChargeCalculator.java
 ![image](https://user-images.githubusercontent.com/55395418/79051150-286b1600-7c61-11ea-8318-4955fb83d770.png)

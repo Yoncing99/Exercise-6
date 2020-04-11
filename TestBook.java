@@ -27,16 +27,14 @@ public class TestBook {
             }
         }
         System.out.printf("%nThe highest price of book : \n"+ "\""+ hpBook +"\""+" which is RM "+"%.2f%n",hp);
-
         System.out.println("Books with “Java” in title :");
+        
         for(int j=0;j<myLibrary.length;j++){
             if(myLibrary[j].getTitle().indexOf("Java")!=-1)
                 System.out.println(myLibrary[j].getTitle());
         }
-
     }
 }
-
 class Book {
     private String title;      //book’s title
     private double price;      //book’s price
@@ -48,7 +46,6 @@ class Book {
     public String getTitle() {
         return title;
     }
-
     public double getPrice() {
         return price;
     }

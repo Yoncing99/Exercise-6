@@ -23,3 +23,8 @@ ii) CallChargeCalculator – the class definition for CallChargeCalculator objec
 ```
 https://github.com/Yoncing99/Exercise-6/blob/master/CallChargeCalculator.java
 ![image](https://user-images.githubusercontent.com/55395418/79051150-286b1600-7c61-11ea-8318-4955fb83d770.png)
+### Task 3
+https://github.com/Yoncing99/Exercise-6/blob/master/Average.java
+![image](https://user-images.githubusercontent.com/55395418/79051616-a92b1180-7c63-11ea-901f-75b50bd76ab7.png)
+### Task 4
+

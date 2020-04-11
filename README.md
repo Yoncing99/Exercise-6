@@ -27,4 +27,5 @@ https://github.com/Yoncing99/Exercise-6/blob/master/CallChargeCalculator.java
 https://github.com/Yoncing99/Exercise-6/blob/master/Average.java
 ![image](https://user-images.githubusercontent.com/55395418/79051616-a92b1180-7c63-11ea-901f-75b50bd76ab7.png)
 ### Task 4
-
+https://github.com/Yoncing99/Exercise-6/blob/master/TestBook.java
+![image](https://user-images.githubusercontent.com/55395418/79052419-f8c00c00-7c68-11ea-9044-9466808cee0f.png)

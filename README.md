@@ -12,3 +12,6 @@ https://github.com/Yoncing99/Exercise-6/blob/master/TestStudent.java
 
 1d)
 ![image](https://user-images.githubusercontent.com/55395418/79050795-f789e180-7c5e-11ea-9f63-1148163d4b6e.png)
+## Task 2
+
+![image](https://user-images.githubusercontent.com/55395418/79051150-286b1600-7c61-11ea-8318-4955fb83d770.png)
